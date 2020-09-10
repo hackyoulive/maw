@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "VIKA",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -29,7 +29,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#424a4d"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.0.2",
@@ -54,8 +56,13 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
